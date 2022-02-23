@@ -70,6 +70,27 @@ body{
     margin-left: 5%;
     margin-right: 5%;
 }
+
+#card2-bcolor{
+    background-color:rgb(131, 201, 241);
+    border-radius:5%;
+    width: 50%;
+    margin:2%;
+    padding:2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#card3-bcolor{
+    background-color:rgba(250, 144, 144, 0.644);
+    border-radius:5%;
+    width: 50%;
+    margin:2%;
+    padding:2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 .part2-text{
     text-align:center;
     margin-top: 100px;
