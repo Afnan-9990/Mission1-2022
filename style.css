@@ -1,0 +1,91 @@
+
+
+.text-color{
+    color: rgb(248, 2, 2);
+}
+
+.flexible-container{
+    display: flex;
+    margin-top: 50px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.img-size{
+    width: 70%;
+}
+
+.card-img{
+    width:150px;
+}
+.card-text{
+    text-align: justify;
+}
+
+.card-design{
+    background-color:rgb(246, 215, 156);
+    border-radius:5%;
+    width: 50%;
+    margin:2%;
+    padding:2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.part2-text{
+    text-align:center;
+    margin-top: 100px;
+    margin-bottom:20px;
+}
+hr{
+    width: 50%;
+    height: 5px;
+    background-color:rgb(13, 114, 128);
+    border:none;
+    border-radius: 10px;
+}
+
+#login-color{
+    color:rgb(248, 2, 2);
+}
+
+.login-area{
+    width: 50%;
+    padding: 5%;
+    height:50%;
+    margin:50px 270px;
+    display: flex;
+    background-color:rgb(246, 215, 156);
+    border-radius:10px;
+    
+}
+.submit-button{
+    background-color:rgb(248, 2, 2);
+    border:none;
+    color:white;
+    border-radius:5px;
+    width: 50%;
+    height: 40%;
+    margin-top:15px;
+    padding: 2%;
+}
+
+footer p{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+}
+footer{
+    background-color:rgb(13, 114, 128);
+    color:white;
+    margin-top: 100px;
+    padding: 10px;
+}
+.footer-text{
+    color:rgb(248, 2, 2);
+}
+#footer-font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
