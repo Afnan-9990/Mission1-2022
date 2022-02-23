@@ -1,4 +1,11 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Zilla Slab', serif;
+}
 
+.heading-text{
+    margin-left: 10%;
+}
 
 .text-color{
     color: rgb(248, 2, 2);
@@ -15,6 +22,36 @@
 }
 .img-size{
     width: 70%;
+}
+
+.vrttical-line{
+    border-left: 6px solid rgb(13, 114, 128);
+    height:100px;
+    margin-top:26px;
+    border-radius: 10px;
+}
+
+#heading-design{
+    display: flex;
+}
+
+.link-button{
+    background-color:rgb(248, 2, 2);
+    border:none;
+    color:white;
+    border-radius:5px;
+    width: 50%;
+    height: 40%;
+    margin-top:50px;
+    padding: 2%;
+    text-decoration: none;
+
+}
+
+.extra-text{
+    margin-top:50px;
+    color:rgb(248, 2, 2);
+    margin-left: 20%;
 }
 
 .card-img{
